@@ -1,0 +1,1275 @@
+{
+  "titulo": "Organizador de Favoritos",
+  "descricao": "Interface de alta performance para seus links essenciais",
+  "categorias": [
+    {
+      "tema": "DEVTOOLS",
+      "icone": "fas fa-code",
+      "links": [
+        {
+          "nome": "StackBlitz",
+          "url": "https://stackblitz.com/",
+          "icone": "fas fa-browser",
+          "cor": "#F44336",
+          "descricao": "Ambiente de desenvolvimento online para projetos web com suporte a frameworks como Angular, React e Vue."
+        },
+        {
+          "nome": "DevDocs",
+          "url": "https://devdocs.io/",
+          "icone": "fas fa-book",
+          "cor": "#2C3E50",
+          "descricao": "Documentação agregada e pesquisável para diversas linguagens de programação e APIs."
+        },
+        {
+          "nome": "Can I use",
+          "url": "https://caniuse.com/",
+          "icone": "fas fa-check-circle",
+          "cor": "#27AE60",
+          "descricao": "Ferramenta para verificar compatibilidade de recursos web em diferentes navegadores."
+        },
+        {
+          "nome": "JSFiddle",
+          "url": "https://jsfiddle.net/",
+          "icone": "fas fa-code",
+          "cor": "#F7DF1E",
+          "descricao": "Editor online para testar e compartilhar código HTML, CSS e JavaScript."
+        },
+        {
+          "nome": "CodePen",
+          "url": "https://codepen.io/",
+          "icone": "fab fa-codepen",
+          "cor": "#000000",
+          "descricao": "Plataforma social para desenvolvedores front-end compartilharem e demonstrarem códigos."
+        },
+        {
+          "nome": "CSS-Tricks",
+          "url": "https://css-tricks.com/",
+          "icone": "fab fa-css3-alt",
+          "cor": "#2965F1",
+          "descricao": "Blog com artigos e tutoriais avançados sobre CSS e design web."
+        },
+        {
+          "nome": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/pt-BR/",
+          "icone": "fab fa-firefox",
+          "cor": "#FF7139",
+          "descricao": "Documentação oficial e abrangente para tecnologias web mantida pela Mozilla."
+        },
+        {
+          "nome": "W3Schools",
+          "url": "https://w3schools.com/",
+          "icone": "fab fa-w3c",
+          "cor": "#4CAF50",
+          "descricao": "Site de aprendizado com tutoriais interativos para HTML, CSS, JavaScript e mais."
+        },
+        {
+          "nome": "WordPress Detector",
+          "url": "https://wpdetector.com/",
+          "icone": "fab fa-wordpress",
+          "cor": "#21759B",
+          "descricao": "Ferramenta para identificar temas, plugins e detalhes de sites WordPress."
+        },
+        {
+          "nome": "PHPMaker Extensions",
+          "url": "https://www.phpscriptsonline.com/phpmaker-extensions/",
+          "icone": "fas fa-file-code",
+          "cor": "#2980B9",
+          "descricao": "Repositório de extensões para o gerador de aplicativos PHP PHPMaker."
+        },
+        {
+          "nome": "Format SQL",
+          "url": "https://smalldev.tools/format-sql",
+          "icone": "fas fa-database",
+          "cor": "#F39C12",
+          "descricao": "Ferramenta online para formatar e beautificar código SQL."
+        },
+        {
+          "nome": "Bootstrap Examples",
+          "url": "https://getbootstrap.com/docs/5.0/examples/",
+          "icone": "fab fa-bootstrap",
+          "cor": "#7952B3",
+          "descricao": "Coleção de exemplos prontos para uso com o framework Bootstrap versão 5."
+        },
+        {
+          "nome": "HTML Color Codes",
+          "url": "https://htmlcolorcodes.com/",
+          "icone": "fas fa-palette",
+          "cor": "#E74C3C",
+          "descricao": "Referência e gerador de códigos de cores para HTML e CSS."
+        },
+        {
+          "nome": "JSON Formatter",
+          "url": "https://jsonformatter.org/",
+          "icone": "fas fa-list",
+          "cor": "#3498DB",
+          "descricao": "Ferramenta para validar, formatar e minificar dados JSON online."
+        },
+        {
+          "nome": "Regex Tester",
+          "url": "https://regex101.com/",
+          "icone": "fas fa-search",
+          "cor": "#9B59B6",
+          "descricao": "Testador interativo de expressões regulares com explicações detalhadas."
+        },
+        {
+          "nome": "JS Bin",
+          "url": "https://jsbin.com/?html,css,js,output",
+          "icone": "fas fa-terminal",
+          "cor": "#F7DF1E",
+          "descricao": "Ambiente colaborativo para edição e teste de código JavaScript online."
+        }
+      ]
+    },
+    {
+      "tema": "Infraestrutura & Cloud",
+      "icone": "fas fa-cloud",
+      "links": [
+        {
+          "nome": "AWS Console",
+          "url": "https://aws.amazon.com/console/",
+          "icone": "fab fa-aws",
+          "cor": "#FF9900",
+          "descricao": "Console de gerenciamento para serviços de nuvem da Amazon Web Services."
+        },
+        {
+          "nome": "DigitalOcean",
+          "url": "https://cloud.digitalocean.com/droplets",
+          "icone": "fab fa-digital-ocean",
+          "cor": "#0080FF",
+          "descricao": "Plataforma de nuvem para desenvolvedores com servidores virtuais simples."
+        },
+        {
+          "nome": "Linode",
+          "url": "https://cloud.linode.com/linodes",
+          "icone": "fab fa-linode",
+          "cor": "#00ADEF",
+          "descricao": "Provedor de infraestrutura em nuvem com foco em performance e simplicidade."
+        },
+        {
+          "nome": "Vultr",
+          "url": "https://my.vultr.com/",
+          "icone": "fab fa-vultr",
+          "cor": "#FF5A00",
+          "descricao": "Serviços de nuvem com servidores VPS de alto desempenho em vários locais."
+        },
+        {
+          "nome": "Portainer",
+          "url": "https://portainer.io/",
+          "icone": "fab fa-docker",
+          "cor": "#0DB7ED",
+          "descricao": "Interface web para gerenciamento de contêineres Docker e Kubernetes."
+        },
+        {
+          "nome": "Docker WSL",
+          "url": "https://docs.docker.com/desktop/windows/wsl/",
+          "icone": "fab fa-docker",
+          "cor": "#0DB7ED",
+          "descricao": "Documentação para integração do Docker com Windows Subsystem for Linux."
+        },
+        {
+          "nome": "MSSQL Docker",
+          "url": "https://hub.docker.com/r/mcr.microsoft.com/mssql/server",
+          "icone": "fab fa-docker",
+          "cor": "#0DB7ED",
+          "descricao": "Imagem oficial do Docker para SQL Server da Microsoft."
+        },
+        {
+          "nome": "hPanel hostinger",
+          "url": "https://hostinger.com.br/hpanel/",
+          "icone": "fas fa-globe",
+          "cor": "#F47C20",
+          "descricao": "Painel de controle personalizado para hospedagem web da Hostinger."
+        },
+        {
+          "nome": "WHM Listar contas",
+          "url": "https://104.0.10/",
+          "icone": "fas fa-server",
+          "cor": "#6C757D",
+          "descricao": "Interface WHM para listagem e gerenciamento de contas de hospedagem."
+        },
+        {
+          "nome": "Cloudflare Dashboard",
+          "url": "https://dash.cloudflare.com/67085aed352fe1e28f477a4651ce3d4e",
+          "icone": "fab fa-cloudflare",
+          "cor": "#F38020",
+          "descricao": "Painel de controle para serviços de CDN, segurança e DNS da Cloudflare."
+        },
+        {
+          "nome": "Render",
+          "url": "https://dashboard.render.com/",
+          "icone": "fas fa-cloud",
+          "cor": "#00C7B7",
+          "descricao": "Plataforma para deployment de aplicativos web e APIs com escalabilidade automática."
+        },
+        {
+          "nome": "Railway",
+          "url": "https://railway.app/",
+          "icone": "fas fa-train",
+          "cor": "#000000",
+          "descricao": "Ferramenta para hospedagem e deployment de aplicativos com integração Git."
+        },
+        {
+          "nome": "Meltano Hub",
+          "url": "https://meltano.com/hub/",
+          "icone": "fas fa-plug",
+          "cor": "#F39C12",
+          "descricao": "Hub para pipelines de dados ELT open-source com Meltano."
+        },
+        {
+          "nome": "Netlify",
+          "url": "https://app.netlify.com/",
+          "icone": "fas fa-rocket",
+          "cor": "#00C7B7",
+          "descricao": "Plataforma para hospedagem de sites estáticos com deploy contínuo."
+        },
+        {
+          "nome": "Fly.io",
+          "url": "https://fly.io/",
+          "icone": "fas fa-paper-plane",
+          "cor": "#000000",
+          "descricao": "Plataforma para rodar aplicativos full-stack próximos aos usuários."
+        },
+        {
+          "nome": "Google Cloud",
+          "url": "https://console.cloud.google.com/",
+          "icone": "fab fa-google",
+          "cor": "#4285F4",
+          "descricao": "Console para serviços de computação em nuvem do Google."
+        }
+      ]
+    },
+    {
+      "tema": "Design & Criatividade",
+      "icone": "fas fa-paint-brush",
+      "links": [
+        {
+          "nome": "LunaPic Editor",
+          "url": "https://www.lunapic.com/editor/?action=recover",
+          "icone": "fas fa-image",
+          "cor": "#8E44AD",
+          "descricao": "Editor de imagens online com efeitos e ferramentas gratuitas."
+        },
+        {
+          "nome": "Fotor Collage",
+          "url": "https://www.fotor.com/pt/collage/",
+          "icone": "fas fa-images",
+          "cor": "#E74C3C",
+          "descricao": "Criador de colagens e editor de fotos online."
+        },
+        {
+          "nome": "Logo Maker",
+          "url": "https://logojoy.com/",
+          "icone": "fas fa-paint-brush",
+          "cor": "#27AE60",
+          "descricao": "Gerador de logos com IA para marcas e empresas."
+        },
+        {
+          "nome": "Favicon.io",
+          "url": "https://favicon.io/",
+          "icone": "fas fa-font-awesome",
+          "cor": "#3498DB",
+          "descricao": "Gerador de favicons a partir de texto, imagens ou emojis."
+        },
+        {
+          "nome": "SVGator",
+          "url": "https://svgator.com/my-projects",
+          "icone": "fas fa-paint-brush",
+          "cor": "#34495E",
+          "descricao": "Ferramenta para criar animações SVG sem código."
+        },
+        {
+          "nome": "Pencil Sketch",
+          "url": "https://pencil-sketch-your-photo.com/",
+          "icone": "fas fa-pencil-alt",
+          "cor": "#8B4513",
+          "descricao": "Conversor de fotos em desenhos a lápis online."
+        },
+        {
+          "nome": "unDraw",
+          "url": "https://undraw.co/illustrations",
+          "icone": "fas fa-palette",
+          "cor": "#F94144",
+          "descricao": "Coleção de ilustrações SVG gratuitas e personalizáveis."
+        },
+        {
+          "nome": "CSS Scan",
+          "url": "https://cssscan.com/css-box-shadows",
+          "icone": "fas fa-code",
+          "cor": "#F34B7D",
+          "descricao": "Ferramenta para inspecionar e copiar estilos CSS de elementos."
+        },
+        {
+          "nome": "SVG Converter",
+          "url": "https://svg-converter.com/",
+          "icone": "fas fa-object-ungroup",
+          "cor": "#F1C40F",
+          "descricao": "Conversor online para formatos SVG."
+        },
+        {
+          "nome": "Color Hex",
+          "url": "https://www.color-hex.com/color/cdcdcd",
+          "icone": "fas fa-palette",
+          "cor": "#7F8C8D",
+          "descricao": "Banco de dados de cores hexadecimais com paletas e variações."
+        },
+        {
+          "nome": "Mindmaps",
+          "url": "https://mindmaps.app/",
+          "icone": "fas fa-sitemap",
+          "cor": "#9B59B6",
+          "descricao": "Aplicativo para criar mapas mentais online."
+        },
+        {
+          "nome": "Coolors",
+          "url": "https://coolors.co/",
+          "icone": "fas fa-th",
+          "cor": "#2C3E50",
+          "descricao": "Gerador de paletas de cores para designers."
+        },
+        {
+          "nome": "Logo Maker",
+          "url": "https://looka.com/",
+          "icone": "fas fa-lightbulb",
+          "cor": "#F39C12",
+          "descricao": "Criador de logos e identidade visual com inteligência artificial."
+        },
+        {
+          "nome": "Photopea",
+          "url": "https://www.photopea.com/",
+          "icone": "fas fa-photo-video",
+          "cor": "#2ECC71",
+          "descricao": "Editor de imagens online similar ao Photoshop, gratuito."
+        },
+        {
+          "nome": "Canva",
+          "url": "https://www.canva.com/",
+          "icone": "fas fa-canvas",
+          "cor": "#00C4CC",
+          "descricao": "Plataforma de design gráfico para criação de conteúdo visual."
+        },
+        {
+          "nome": "Crello",
+          "url": "https://crello.com/",
+          "icone": "fas fa-paint-roller",
+          "cor": "#FF6F61",
+          "descricao": "Ferramenta de design para posts em redes sociais e marketing."
+        }
+      ]
+    },
+    {
+      "tema": "Redes Sociais",
+      "icone": "fab fa-facebook",
+      "links": [
+        {
+          "nome": "YouTube",
+          "url": "https://www.youtube.com/",
+          "icone": "fab fa-youtube",
+          "cor": "#FF0000",
+          "descricao": "Plataforma de compartilhamento de vídeos mais popular do mundo."
+        },
+        {
+          "nome": "Instagram",
+          "url": "https://instagram.com/",
+          "icone": "fab fa-instagram",
+          "cor": "#E1306C",
+          "descricao": "Rede social para compartilhamento de fotos, vídeos e stories."
+        },
+        {
+          "nome": "Facebook",
+          "url": "https://facebook.com/",
+          "icone": "fab fa-facebook",
+          "cor": "#1877F2",
+          "descricao": "Rede social para conexão com amigos e comunidades."
+        },
+        {
+          "nome": "Twitter",
+          "url": "https://twitter.com/",
+          "icone": "fab fa-twitter",
+          "cor": "#1DA1F2",
+          "descricao": "Plataforma para microblogging e discussões em tempo real."
+        },
+        {
+          "nome": "LinkedIn",
+          "url": "https://linkedin.com/",
+          "icone": "fab fa-linkedin",
+          "cor": "#0A66C2",
+          "descricao": "Rede profissional para networking e oportunidades de carreira."
+        },
+        {
+          "nome": "TikTok",
+          "url": "https://tiktok.com/",
+          "icone": "fab fa-tiktok",
+          "cor": "#000000",
+          "descricao": "Aplicativo para vídeos curtos e desafios virais."
+        },
+        {
+          "nome": "Pinterest",
+          "url": "https://pinterest.com/",
+          "icone": "fab fa-pinterest",
+          "cor": "#E60023",
+          "descricao": "Plataforma para descoberta e salvamento de ideias visuais."
+        },
+        {
+          "nome": "Reddit",
+          "url": "https://reddit.com/",
+          "icone": "fab fa-reddit",
+          "cor": "#FF4500",
+          "descricao": "Fórum comunitário com subreddits para diversos tópicos."
+        },
+        {
+          "nome": "WhatsApp Web",
+          "url": "https://web.whatsapp.com/",
+          "icone": "fab fa-whatsapp",
+          "cor": "#25D366",
+          "descricao": "Versão web do aplicativo de mensagens WhatsApp."
+        },
+        {
+          "nome": "Beacons",
+          "url": "https://beacons.ai/sayronews",
+          "icone": "fas fa-link",
+          "cor": "#6C5CE7",
+          "descricao": "Ferramenta para criar páginas de links personalizadas para criadores."
+        }
+      ]
+    },
+    {
+      "tema": "Conversão de Arquivos",
+      "icone": "fas fa-exchange-alt",
+      "links": [
+        {
+          "nome": "CloudConvert",
+          "url": "https://cloudconvert.com/",
+          "icone": "fas fa-cog",
+          "cor": "#4A90E2",
+          "descricao": "Conversor online para mais de 200 formatos de arquivos."
+        },
+        {
+          "nome": "Image to Base64",
+          "url": "https://img2go.com/convert-to-base64",
+          "icone": "fas fa-expand",
+          "cor": "#E67E22",
+          "descricao": "Ferramenta para converter imagens em strings Base64."
+        },
+        {
+          "nome": "PNG to SVG",
+          "url": "https://img2go.com/convert-png-to-svg",
+          "icone": "fas fa-project-diagram",
+          "cor": "#E67E22",
+          "descricao": "Conversor de imagens PNG para formato vetorial SVG."
+        },
+        {
+          "nome": "Upload Image",
+          "url": "https://imgur.com/upload",
+          "icone": "fas fa-cloud-upload-alt",
+          "cor": "#4B69AF",
+          "descricao": "Serviço para upload e compartilhamento de imagens."
+        },
+        {
+          "nome": "Crop Video",
+          "url": "https://clideo.com/crop-video",
+          "icone": "fas fa-crop",
+          "cor": "#16A085",
+          "descricao": "Editor online para cortar e editar vídeos."
+        },
+        {
+          "nome": "HTML Formatter",
+          "url": "https://htmlformatter.com/",
+          "icone": "fas fa-code",
+          "cor": "#F39C12",
+          "descricao": "Ferramenta para formatar código HTML de forma legível."
+        },
+        {
+          "nome": "Google Drive",
+          "url": "https://drive.google.com/drive/my-drive",
+          "icone": "fab fa-google-drive",
+          "cor": "#34A853",
+          "descricao": "Armazenamento em nuvem e colaboração em documentos do Google."
+        },
+        {
+          "nome": "OneDrive",
+          "url": "https://onedrive.live.com/",
+          "icone": "fab fa-microsoft",
+          "cor": "#0078D4",
+          "descricao": "Serviço de armazenamento em nuvem da Microsoft."
+        },
+        {
+          "nome": "PDF to Word",
+          "url": "https://www.ilovepdf.com/pt/pdf_para_word",
+          "icone": "fas fa-file-word",
+          "cor": "#2B579A",
+          "descricao": "Conversor de arquivos PDF para formato Word editável."
+        },
+        {
+          "nome": "PDF to JPG",
+          "url": "https://www.ilovepdf.com/pt/pdf_para_jpg",
+          "icone": "fas fa-file-image",
+          "cor": "#D44638",
+          "descricao": "Ferramenta para extrair imagens JPG de arquivos PDF."
+        },
+        {
+          "nome": "Compress PDF",
+          "url": "https://www.ilovepdf.com/pt/comprimir_pdf",
+          "icone": "fas fa-file-compress",
+          "cor": "#FF6F00",
+          "descricao": "Compressão online de arquivos PDF sem perda de qualidade."
+        }
+      ]
+    },
+    {
+      "tema": "Download de Vídeos",
+      "icone": "fas fa-download",
+      "links": [
+        {
+          "nome": "Twitter Video Downloader",
+          "url": "https://twitter-video-downloader.com/pt/",
+          "icone": "fab fa-twitter",
+          "cor": "#1DA1F2",
+          "descricao": "Ferramenta para baixar vídeos do Twitter/X."
+        },
+        {
+          "nome": "YouTube to MP3",
+          "url": "https://yt1s.com/pt268/youtube-to-mp3",
+          "icone": "fas fa-music",
+          "cor": "#FF0000",
+          "descricao": "Conversor de vídeos do YouTube para formato MP3."
+        },
+        {
+          "nome": "YouTube to MP4",
+          "url": "https://yt1s.com/pt268/youtube-to-mp4",
+          "icone": "fas fa-video",
+          "cor": "#FF0000",
+          "descricao": "Downloader de vídeos do YouTube em formato MP4."
+        },
+        {
+          "nome": "SaveFrom.net",
+          "url": "https://pt.savefrom.net/1-how-to-download-youtube-video/",
+          "icone": "fas fa-save",
+          "cor": "#4CAF50",
+          "descricao": "Serviço para download de vídeos de várias plataformas."
+        },
+        {
+          "nome": "9xbuddy",
+          "url": "https://9xbuddy.org/",
+          "icone": "fas fa-film",
+          "cor": "#FF5722",
+          "descricao": "Downloader multi-plataforma para vídeos online."
+        },
+        {
+          "nome": "Y2Mate",
+          "url": "https://www.y2mate.com/pt68",
+          "icone": "fas fa-download",
+          "cor": "#3F51B5",
+          "descricao": "Ferramenta para baixar e converter vídeos do YouTube."
+        },
+        {
+          "nome": "ClipConverter",
+          "url": "https://www.clipconverter.cc/2/",
+          "icone": "fas fa-exchange-alt",
+          "cor": "#009688",
+          "descricao": "Conversor e downloader de vídeos e áudio online."
+        },
+        {
+          "nome": "BitDownloader",
+          "url": "https://bitdownloader.com/",
+          "icone": "fas fa-link",
+          "cor": "#E91E63",
+          "descricao": "Serviço gratuito para download de vídeos do YouTube e outros sites."
+        },
+        {
+          "nome": "Online Video Converter",
+          "url": "https://www.onlinevideoconverter.com/pt/video-converter",
+          "icone": "fas fa-sync-alt",
+          "cor": "#9C27B0",
+          "descricao": "Conversor de vídeos online para vários formatos."
+        },
+        {
+          "nome": "YTMP3.cc",
+          "url": "https://ytmp3.cc/",
+          "icone": "fas fa-music",
+          "cor": "#FF0000",
+          "descricao": "Conversor rápido de YouTube para MP3."
+        },
+        {
+          "nome": "YTMP4.cc",
+          "url": "https://ytmp4.cc/",
+          "icone": "fas fa-video",
+          "cor": "#FF0000",
+          "descricao": "Downloader de vídeos do YouTube em MP4."
+        }
+      ]
+    },
+    {
+      "tema": "Produtividade ",
+      "icone": "fas fa-sync",
+      "links": [
+        {
+          "nome": "Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "icone": "fas fa-envelope",
+          "cor": "#D93025",
+          "descricao": "Serviço de e-mail gratuito do Google com integração avançada."
+        },
+        {
+          "nome": "FutureMe",
+          "url": "https://futureme.org/",
+          "icone": "fas fa-clock",
+          "cor": "#3498DB",
+          "descricao": "Envio de e-mails para si mesmo no futuro."
+        },
+        {
+          "nome": "Small Dev Tools",
+          "url": "https://smalldev.tools/",
+          "icone": "fas fa-toolbox",
+          "cor": "#3498DB",
+          "descricao": "Conjunto de ferramentas pequenas para desenvolvedores."
+        },
+        {
+          "nome": "WayScript",
+          "url": "https://wayscript.com/",
+          "icone": "fas fa-robot",
+          "cor": "#4A4A4A",
+          "descricao": "Plataforma para automação de workflows sem código."
+        },
+        {
+          "nome": "Segment",
+          "url": "https://segment.com/",
+          "icone": "fas fa-analytics",
+          "cor": "#F15B2A",
+          "descricao": "Plataforma de dados de clientes para análise e integração."
+        },
+        {
+          "nome": "Twilio Billing",
+          "url": "https://console.twilio.com/us1/billing/overview",
+          "icone": "fas fa-file-invoice-dollar",
+          "cor": "#F42B03",
+          "descricao": "Painel de faturamento para serviços de comunicação Twilio."
+        },
+        {
+          "nome": "LogRocket",
+          "url": "https://logrocket.com/",
+          "icone": "fas fa-binoculars",
+          "cor": "#000000",
+          "descricao": "Ferramenta para monitoramento e análise de sessões de usuários."
+        },
+        {
+          "nome": "Novu Activity",
+          "url": "https://novu.co/activity-feed",
+          "icone": "fas fa-bell",
+          "cor": "#6C5CE7",
+          "descricao": "Plataforma open-source para gerenciamento de notificações."
+        },
+        {
+          "nome": "Rocketseat Ignite",
+          "url": "https://app.rocketseat.com.br/ignite",
+          "icone": "fas fa-graduation-cap",
+          "cor": "#AB2680",
+          "descricao": "Programa de treinamento avançado em desenvolvimento web da Rocketseat."
+        },
+        {
+          "nome": "Cloudflare Dashboard",
+          "url": "https://dash.cloudflare.com/67085aed352fe1e28f477a4651ce3d4e",
+          "icone": "fab fa-cloudflare",
+          "cor": "#F38020",
+          "descricao": "Painel de controle para serviços de CDN, segurança e DNS da Cloudflare."
+        },
+        {
+          "nome": "Notion",
+          "url": "https://www.notion.so/",
+          "icone": "fas fa-sticky-note",
+          "cor": "#000000",
+          "descricao": "Ferramenta all-in-one para notas, tarefas e bancos de dados."
+        },
+        {
+          "nome": "Todoist",
+          "url": "https://todoist.com/app",
+          "icone": "fas fa-check-square",
+          "cor": "#E44332",
+          "descricao": "Aplicativo de gerenciamento de tarefas e listas."
+        },
+        {
+          "nome": "Trello",
+          "url": "https://trello.com/",
+          "icone": "fab fa-trello",
+          "cor": "#0079BF",
+          "descricao": "Ferramenta de gerenciamento de projetos com quadros Kanban."
+        },
+        {
+          "nome": "Asana",
+          "url": "https://asana.com/",
+          "icone": "fas fa-tasks",
+          "cor": "#273347",
+          "descricao": "Plataforma para rastreamento de trabalho em equipe."
+        },
+        {
+          "nome": "Slack",
+          "url": "https://slack.com/",
+          "icone": "fab fa-slack",
+          "cor": "#4A154B",
+          "descricao": "Ferramenta de comunicação em equipe com canais e integrações."
+        },
+        {
+          "nome": "Microsoft Teams",
+          "url": "https://teams.microsoft.com/",
+          "icone": "fab fa-microsoft",
+          "cor": "#6264A7",
+          "descricao": "Plataforma de colaboração com chat, vídeo e integração Office."
+        }
+      ]
+    },
+    {
+      "tema": "Aprendizado & Documentação",
+      "icone": "fas fa-graduation-cap",
+      "links": [
+        {
+          "nome": "TensorFlow",
+          "url": "https://www.tensorflow.org/install/pip?hl=pt-br",
+          "icone": "fas fa-brain",
+          "cor": "#FF6F00",
+          "descricao": "Biblioteca open-source para machine learning e IA."
+        },
+        {
+          "nome": "Node.js Frameworks",
+          "url": "https://blog.logrocket.com/top-12-node-js-frameworks/",
+          "icone": "fab fa-node-js",
+          "cor": "#68A063",
+          "descricao": "Artigo sobre os principais frameworks para Node.js."
+        },
+        {
+          "nome": "Fauna",
+          "url": "https://fauna.com/",
+          "icone": "fas fa-cat",
+          "cor": "#1B9AAA",
+          "descricao": "Banco de dados serverless com foco em aplicativos distribuídos."
+        },
+        {
+          "nome": "StepZen",
+          "url": "https://stepzen.com/",
+          "icone": "fas fa-project-diagram",
+          "cor": "#000000",
+          "descricao": "Plataforma para criação de APIs GraphQL sem código."
+        },
+        {
+          "nome": "Karrot",
+          "url": "https://karrot.com/",
+          "icone": "fas fa-users",
+          "cor": "#F7931E",
+          "descricao": "Aplicativo para comunidades locais de compra e venda."
+        },
+        {
+          "nome": "Dev.to",
+          "url": "https://dev.to/",
+          "icone": "fab fa-dev",
+          "cor": "#0A0A0A",
+          "descricao": "Comunidade para desenvolvedores compartilharem artigos e conhecimentos."
+        },
+        {
+          "nome": "Hashnode",
+          "url": "https://hashnode.com/",
+          "icone": "fas fa-hashtag",
+          "cor": "#2962FF",
+          "descricao": "Plataforma de blogging para desenvolvedores com integração social."
+        },
+        {
+          "nome": "GitHub Alicia",
+          "url": "https://github.com/Lissy93/aliciasykes.com",
+          "icone": "fab fa-github",
+          "cor": "#181717",
+          "descricao": "Repositório GitHub para o site pessoal de Alicia Sykes."
+        },
+        {
+          "nome": "FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "icone": "fas fa-free-code-camp",
+          "cor": "#006400",
+          "descricao": "Plataforma gratuita para aprendizado de programação com certificações."
+        },
+        {
+          "nome": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/pt-BR/",
+          "icone": "fab fa-firefox",
+          "cor": "#FF7139",
+          "descricao": "Documentação oficial e abrangente para tecnologias web mantida pela Mozilla."
+        },
+        {
+          "nome": "W3Schools",
+          "url": "https://w3schools.com/",
+          "icone": "fab fa-w3c",
+          "cor": "#4CAF50",
+          "descricao": "Site de aprendizado com tutoriais interativos para desenvolvimento web."
+        },
+        {
+          "nome": "Coursera",
+          "url": "https://coursera.org/",
+          "icone": "fas fa-university",
+          "cor": "#2A73CC",
+          "descricao": "Plataforma de cursos online de universidades renomadas."
+        },
+        {
+          "nome": "edX",
+          "url": "https://edx.org/",
+          "icone": "fas fa-graduation-cap",
+          "cor": "#0F7DC2",
+          "descricao": "Cursos gratuitos de instituições como Harvard e MIT."
+        },
+        {
+          "nome": "Khan Academy",
+          "url": "https://khanacademy.org/",
+          "icone": "fas fa-lightbulb",
+          "cor": "#14BF96",
+          "descricao": "Recursos educativos gratuitos para matemática, ciência e mais."
+        },
+        {
+          "nome": "Udemy",
+          "url": "https://udemy.com/",
+          "icone": "fas fa-chalkboard-teacher",
+          "cor": "#EC5252",
+          "descricao": "Marketplace de cursos online em diversas áreas."
+        }
+      ]
+    },
+    {
+      "tema": "Monitoramento & Ciência",
+      "icone": "fas fa-globe",
+      "links": [
+        {
+          "nome": "NOAA",
+          "url": "https://noaa.gov/",
+          "icone": "fas fa-water",
+          "cor": "#0073E6",
+          "descricao": "Agência nacional para oceanos e atmosfera dos EUA."
+        },
+        {
+          "nome": "Flightradar24",
+          "url": "https://www.flightradar24.com/",
+          "icone": "fas fa-plane",
+          "cor": "#E91E63",
+          "descricao": "Rastreamento em tempo real de voos ao redor do mundo."
+        },
+        {
+          "nome": "USGS Volcanoes",
+          "url": "https://volcanoes.usgs.gov/",
+          "icone": "fas fa-fire",
+          "cor": "#FF5722",
+          "descricao": "Monitoramento de vulcões pelo Serviço Geológico dos EUA."
+        },
+        {
+          "nome": "Earthquake Monitor",
+          "url": "https://earthquaketrack.com/",
+          "icone": "fas fa-earthquake",
+          "cor": "#795548",
+          "descricao": "Rastreamento global de terremotos em tempo real."
+        },
+        {
+          "nome": "Weather Underground",
+          "url": "https://www.wunderground.com/",
+          "icone": "fas fa-cloud-sun",
+          "cor": "#FFC107",
+          "descricao": "Previsões meteorológicas detalhadas e dados locais."
+        },
+        {
+          "nome": "JPL Database",
+          "url": "https://ssd.jpl.nasa.gov/sbdb.cgi",
+          "icone": "fas fa-meteor",
+          "cor": "#673AB7",
+          "descricao": "Banco de dados de objetos do sistema solar da NASA."
+        },
+        {
+          "nome": "IRIS Earthquake",
+          "url": "https://iris.edu/app/earthquake_browser/",
+          "icone": "fas fa-seismic",
+          "cor": "#9C27B0",
+          "descricao": "Navegador de terremotos com dados sísmicos."
+        },
+        {
+          "nome": "Alaska Volcano",
+          "url": "https://avo.alaska.edu/",
+          "icone": "fas fa-volcano",
+          "cor": "#F44336",
+          "descricao": "Observatório de vulcões do Alasca."
+        },
+        {
+          "nome": "Space Weather",
+          "url": "https://spaceweather.com/",
+          "icone": "fas fa-moon",
+          "cor": "#3F51B5",
+          "descricao": "Previsões e notícias sobre clima espacial."
+        },
+        {
+          "nome": "Windy",
+          "url": "https://www.windy.com/",
+          "icone": "fas fa-wind",
+          "cor": "#03A9F4",
+          "descricao": "Mapa interativo de condições meteorológicas globais."
+        },
+        {
+          "nome": "Earth Nullschool",
+          "url": "https://earth.nullschool.net/",
+          "icone": "fas fa-globe-americas",
+          "cor": "#4CAF50",
+          "descricao": "Visualização de padrões climáticos e oceânicos da Terra."
+        },
+        {
+          "nome": "Ventusky",
+          "url": "https://www.ventusky.com/",
+          "icone": "fas fa-cloud",
+          "cor": "#00BCD4",
+          "descricao": "Mapas meteorológicos com animações e camadas detalhadas."
+        },
+        {
+          "nome": "MeteoEarth",
+          "url": "https://www.meteoearth.com/",
+          "icone": "fas fa-sun",
+          "cor": "#FF9800",
+          "descricao": "Visualização 3D de dados meteorológicos globais."
+        },
+        {
+          "nome": "RainViewer",
+          "url": "https://www.rainviewer.com/",
+          "icone": "fas fa-cloud-rain",
+          "cor": "#2196F3",
+          "descricao": "Radar de chuva e previsões de precipitação."
+        },
+        {
+          "nome": "Storm Radar",
+          "url": "https://stormradar.com/",
+          "icone": "fas fa-bolt",
+          "cor": "#FFEB3B",
+          "descricao": "Rastreamento de tempestades e alertas meteorológicos."
+        }
+      ]
+    },
+    {
+      "tema": "Utilitários & Ferramentas",
+      "icone": "fas fa-tools",
+      "links": [
+        {
+          "nome": "Down For Everyone",
+          "url": "https://downforeveryoneorjustme.com/",
+          "icone": "fas fa-server",
+          "cor": "#E74C3C",
+          "descricao": "Verificador se um site está offline para todos ou só para você."
+        },
+        {
+          "nome": "Is It Down Right Now?",
+          "url": "https://www.isitdownrightnow.com/",
+          "icone": "fas fa-network-wired",
+          "cor": "#3498DB",
+          "descricao": "Monitoramento do status de sites em tempo real."
+        },
+        {
+          "nome": "Pingdom",
+          "url": "https://www.pingdom.com/",
+          "icone": "fas fa-tachometer-alt",
+          "cor": "#27AE60",
+          "descricao": "Ferramentas para monitoramento de performance de sites."
+        },
+        {
+          "nome": "GTmetrix",
+          "url": "https://gtmetrix.com/",
+          "icone": "fas fa-chart-line",
+          "cor": "#F39C12",
+          "descricao": "Análise de velocidade e otimização de páginas web."
+        },
+        {
+          "nome": "WebPageTest",
+          "url": "https://www.webpagetest.org/",
+          "icone": "fas fa-globe",
+          "cor": "#9B59B6",
+          "descricao": "Testes de performance web de múltiplos locais."
+        },
+        {
+          "nome": "TinyPNG",
+          "url": "https://tinypng.com/",
+          "icone": "fas fa-compress",
+          "cor": "#FF6F61",
+          "descricao": "Compressão inteligente de imagens PNG e JPEG."
+        },
+        {
+          "nome": "Remove.bg",
+          "url": "https://www.remove.bg/",
+          "icone": "fas fa-image",
+          "cor": "#2ECC71",
+          "descricao": "Remoção automática de fundo de imagens com IA."
+        },
+        {
+          "nome": "Bitly",
+          "url": "https://bitly.com/",
+          "icone": "fas fa-link",
+          "cor": "#FF5722",
+          "descricao": "Encurtador de URLs com rastreamento de cliques."
+        },
+        {
+          "nome": "QR Code Generator",
+          "url": "https://www.qr-code-generator.com/",
+          "icone": "fas fa-qrcode",
+          "cor": "#000000",
+          "descricao": "Criador de códigos QR personalizados."
+        },
+        {
+          "nome": "WhatIsMyIP",
+          "url": "https://www.whatismyip.com/",
+          "icone": "fas fa-user-secret",
+          "cor": "#34495E",
+          "descricao": "Ferramenta para verificar endereço IP e localização."
+        },
+        {
+          "nome": "DNS Checker",
+          "url": "https://dnschecker.org/",
+          "icone": "fas fa-search-location",
+          "cor": "#2980B9",
+          "descricao": "Verificador global de propagação DNS."
+        },
+        {
+          "nome": "SSL Labs",
+          "url": "https://www.ssllabs.com/ssltest/",
+          "icone": "fas fa-shield-alt",
+          "cor": "#16A085",
+          "descricao": "Teste de configuração e segurança de certificados SSL."
+        },
+        {
+          "nome": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "icone": "fas fa-user-shield",
+          "cor": "#C0392B",
+          "descricao": "Verificador de vazamentos de dados e senhas."
+        },
+        {
+          "nome": "LastPass",
+          "url": "https://lastpass.com/",
+          "icone": "fas fa-key",
+          "cor": "#FF9800",
+          "descricao": "Gerenciador de senhas seguro e multifuncional."
+        },
+        {
+          "nome": "1Password",
+          "url": "https://1password.com/",
+          "icone": "fas fa-lock",
+          "cor": "#007AFF",
+          "descricao": "Aplicativo para armazenamento seguro de senhas e dados."
+        }
+      ]
+    },
+    {
+      "tema": "Self Hosting",
+      "icone": "fas fa-server",
+      "links": [
+        {
+          "nome": "Home Assistant",
+          "url": "https://www.home-assistant.io/",
+          "icone": "fas fa-home",
+          "cor": "#FF6F61",
+          "descricao": "Plataforma open-source para automação residencial."
+        },
+        {
+          "nome": "Nextcloud",
+          "url": "https://nextcloud.com/",
+          "icone": "fas fa-cloud",
+          "cor": "#0082C9",
+          "descricao": "Solução self-hosted para armazenamento e colaboração em nuvem."
+        },
+        {
+          "nome": "Plex",
+          "url": "https://www.plex.tv/",
+          "icone": "fas fa-film",
+          "cor": "#E5A00D",
+          "descricao": "Servidor de mídia para streaming pessoal de filmes e músicas."
+        },
+        {
+          "nome": "Jellyfin",
+          "url": "https://jellyfin.org/",
+          "icone": "fas fa-tv",
+          "cor": "#4CAF50",
+          "descricao": "Alternativa open-source ao Plex para gerenciamento de mídia."
+        },
+        {
+          "nome": "Bitwarden",
+          "url": "https://bitwarden.com/",
+          "icone": "fas fa-key",
+          "cor": "#1E88E5",
+          "descricao": "Gerenciador de senhas open-source e self-hosted."
+        },
+        {
+          "nome": "Gitea",
+          "url": "https://gitea.io/en-us/",
+          "icone": "fas fa-code-branch",
+          "cor": "#F48024",
+          "descricao": "Servidor Git leve e self-hosted similar ao GitHub."
+        },
+        {
+          "nome": "Uptime Kuma",
+          "url": "https://uptime.kuma.pet/",
+          "icone": "fas fa-heartbeat",
+          "cor": "#FF5722",
+          "descricao": "Monitor de uptime open-source para sites e serviços."
+        },
+        {
+          "nome": "Pi-hole",
+          "url": "https://pi-hole.net/",
+          "icone": "fas fa-ban",
+          "cor": "#4CAF50",
+          "descricao": "Bloqueador de anúncios em nível de rede para Raspberry Pi."
+        },
+        {
+          "nome": "OpenMediaVault",
+          "url": "https://www.openmediavault.org/",
+          "icone": "fas fa-database",
+          "cor": "#2196F3",
+          "descricao": "Solução NAS baseada em Debian para armazenamento."
+        },
+        {
+          "nome": "Grafana",
+          "url": "https://grafana.com/",
+          "icone": "fas fa-chart-bar",
+          "cor": "#F46800",
+          "descricao": "Plataforma para visualização de métricas e dashboards."
+        },
+        {
+          "nome": "Prometheus",
+          "url": "https://prometheus.io/",
+          "icone": "fas fa-tachometer-alt",
+          "cor": "#E6522C",
+          "descricao": "Sistema de monitoramento e alerta open-source."
+        },
+        {
+          "nome": "Node-RED",
+          "url": "https://nodered.org/",
+          "icone": "fas fa-project-diagram",
+          "cor": "#FF6F61",
+          "descricao": "Ferramenta de programação visual para IoT e automação."
+        },
+        {
+          "nome": "Traefik",
+          "url": "https://traefik.io/",
+          "icone": "fas fa-route",
+          "cor": "#009688",
+          "descricao": "Proxy reverso e balanceador de carga para microserviços."
+        },
+        {
+          "nome": "Portainer",
+          "url": "https://www.portainer.io/",
+          "icone": "fas fa-boxes",
+          "cor": "#0DB7ED",
+          "descricao": "Interface web para gerenciamento de contêineres Docker e Kubernetes."
+        },
+        {
+          "nome": "Cockpit",
+          "url": "https://cockpit-project.org/",
+          "icone": "fas fa-cogs",
+          "cor": "#E74C3C",
+          "descricao": "Interface web para administração de servidores Linux."
+        }
+      ]
+    },
+    {
+      "tema": "Design & Edição",
+      "icone": "fas fa-paint-brush",
+      "links": [
+        {
+          "nome": "Canva",
+          "url": "https://www.canva.com/",
+          "icone": "fas fa-canvas",
+          "cor": "#00C4CC",
+          "descricao": "Plataforma de design gráfico para criação de conteúdo visual."
+        },
+        {
+          "nome": "Figma",
+          "url": "https://www.figma.com/",
+          "icone": "fas fa-vector-square",
+          "cor": "#F24E1E",
+          "descricao": "Ferramenta colaborativa para design de interfaces e protótipos."
+        },
+        {
+          "nome": "Adobe Creative Cloud",
+          "url": "https://www.adobe.com/creativecloud.html",
+          "icone": "fab fa-adobe",
+          "cor": "#FF0000",
+          "descricao": "Suíte de aplicativos profissionais para design e edição."
+        },
+        {
+          "nome": "Photopea",
+          "url": "https://www.photopea.com/",
+          "icone": "fas fa-photo-video",
+          "cor": "#2ECC71",
+          "descricao": "Editor de imagens online similar ao Photoshop, gratuito."
+        },
+        {
+          "nome": "Pixlr",
+          "url": "https://pixlr.com/",
+          "icone": "fas fa-image",
+          "cor": "#FF5722",
+          "descricao": "Editor de fotos online com ferramentas avançadas."
+        },
+        {
+          "nome": "GIMP",
+          "url": "https://www.gimp.org/",
+          "icone": "fas fa-paw",
+          "cor": "#5C6BC0",
+          "descricao": "Software open-source para edição de imagens."
+        },
+        {
+          "nome": "Inkscape",
+          "url": "https://inkscape.org/",
+          "icone": "fas fa-draw-polygon",
+          "cor": "#FF9800",
+          "descricao": "Editor de gráficos vetoriais gratuito e open-source."
+        },
+        {
+          "nome": "Krita",
+          "url": "https://krita.org/en/",
+          "icone": "fas fa-paint-brush",
+          "cor": "#00A3E0",
+          "descricao": "Programa para pintura digital e ilustração."
+        },
+        {
+          "nome": "Blender",
+          "url": "https://www.blender.org/",
+          "icone": "fas fa-cube",
+          "cor": "#F5792A",
+          "descricao": "Software open-source para modelagem 3D e animação."
+        },
+        {
+          "nome": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
+          "icone": "fas fa-film",
+          "cor": "#000000",
+          "descricao": "Editor profissional de vídeo com correção de cores."
+        },
+        {
+          "nome": "Audacity",
+          "url": "https://www.audacityteam.org/",
+          "icone": "fas fa-microphone-alt",
+          "cor": "#1E90FF",
+          "descricao": "Editor de áudio open-source e multiplataforma."
+        },
+        {
+          "nome": "Lightworks",
+          "url": "https://www.lwks.com/",
+          "icone": "fas fa-video",
+          "cor": "#FF4500",
+          "descricao": "Editor de vídeo profissional gratuito."
+        },
+        {
+          "nome": "HitFilm Express",
+          "url": "https://fxhome.com/hitfilm-express",
+          "icone": "fas fa-video-slash",
+          "cor": "#8A2BE2",
+          "descricao": "Software gratuito para edição de vídeo e efeitos visuais."
+        },
+        {
+          "nome": "Canvator",
+          "url": "https://www.canva.com/",
+          "icone": "fas fa-canvas",
+          "cor": "#00C4CC",
+          "descricao": "Plataforma de design gráfico para criação de conteúdo visual."
+        },
+        {
+          "nome": "Crello",
+          "url": "https://crello.com/",
+          "icone": "fas fa-paint-roller",
+          "cor": "#FF6F61",
+          "descricao": "Ferramenta de design para posts em redes sociais e marketing."
+        }
+      ]
+    }
+  ]
+}

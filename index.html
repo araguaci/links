@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Organizador de Favoritos</title>
+    <meta
+      name="description"
+      content="Interface de alta performance para seus links essenciais"
+    />
+
+    <!-- Font Awesome -->
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+    />
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1 id="titulo">Carregando...</h1>
+        <p id="descricao">Carregando descrição...</p>
+      </header>
+
+      <div class="search-container">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Buscar por nome, descrição ou URL..."
+        />
+        <i class="fas fa-search search-icon"></i>
+      </div>
+
+      <div class="status-bar">
+        <div class="status-item">
+          <span>Links: <span id="total-links">0</span></span>
+        </div>
+        <div class="status-item">
+          <span>Categorias: <span id="total-categories">0</span></span>
+        </div>
+      </div>
+
+      <div class="cards-grid" id="cards-container">
+        <!-- Cards serão gerados aqui -->
+      </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>
