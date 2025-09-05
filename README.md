@@ -1,4 +1,4 @@
-# 📄 README.md - Organizador de Favoritos com Tema de Alta Performance
+# 📄 Organizador de Favoritos com Tema de Alta Performance
 
 ```markdown
 # 🚀 Organizador de Favoritos
