@@ -18,6 +18,7 @@ Um organizador de links moderno com tema de alta performance, PWA instalável, f
 - ✅ **Notificações push** para feedback do usuário
 - ✅ **Sistema de autenticação** para proteger o formulário
 - ✅ **Atualização automática** do conteúdo
+```
 
 ## 📦 Estrutura do Projeto
 
